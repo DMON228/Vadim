@@ -1,0 +1,51 @@
+C:\Users\s1181303122\source\repos\motor\motor\bin\Debug\motor.exe.config
+C:\Users\s1181303122\source\repos\motor\motor\bin\Debug\motor.exe
+C:\Users\s1181303122\source\repos\motor\motor\bin\Debug\motor.pdb
+C:\Users\s1181303122\source\repos\motor\motor\bin\Debug\MySql.Data.dll
+C:\Users\s1181303122\source\repos\motor\motor\bin\Debug\Google.Protobuf.dll
+C:\Users\s1181303122\source\repos\motor\motor\bin\Debug\MySql.Data.xml
+C:\Users\s1181303122\source\repos\motor\motor\obj\Debug\motor.csprojResolveAssemblyReference.cache
+C:\Users\s1181303122\source\repos\motor\motor\obj\Debug\motor.Form1.resources
+C:\Users\s1181303122\source\repos\motor\motor\obj\Debug\motor.Properties.Resources.resources
+C:\Users\s1181303122\source\repos\motor\motor\obj\Debug\motor.csproj.GenerateResource.Cache
+C:\Users\s1181303122\source\repos\motor\motor\obj\Debug\motor.csproj.CoreCompileInputs.cache
+C:\Users\s1181303122\source\repos\motor\motor\obj\Debug\motor.exe
+C:\Users\s1181303122\source\repos\motor\motor\obj\Debug\motor.pdb
+C:\Users\s1181303122\source\repos\motor\motor\obj\Debug\motor.lolo.resources
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\bin\Debug\motor.exe.config
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\bin\Debug\motor.exe
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\bin\Debug\motor.pdb
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\bin\Debug\Google.Protobuf.dll
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\bin\Debug\MySql.Data.xml
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\obj\Debug\motor.csprojAssemblyReference.cache
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\obj\Debug\motor.Form1.resources
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\obj\Debug\motor.lolo.resources
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\obj\Debug\motor.Properties.Resources.resources
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\obj\Debug\motor.csproj.GenerateResource.cache
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\obj\Debug\motor.csproj.CoreCompileInputs.cache
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\obj\Debug\motor.csproj.CopyComplete
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\obj\Debug\motor.exe
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\obj\Debug\motor.pdb
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\bin\Debug\MySql.Data.dll
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\obj\Debug\motor.Authorization.resources
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\obj\Debug\motor.RegistrationForm.resources
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\obj\Debug\motor.Admin_Form.resources
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\obj\Debug\motor.StaffForm.resources
+C:\Users\pavel\OneDrive\Рабочий стол\Учеба\motoronoe_maslo\мотороное масло\motor\motor\bin\Debug\motor.exe.config
+C:\Users\pavel\OneDrive\Рабочий стол\Учеба\motoronoe_maslo\мотороное масло\motor\motor\bin\Debug\motor.exe
+C:\Users\pavel\OneDrive\Рабочий стол\Учеба\motoronoe_maslo\мотороное масло\motor\motor\bin\Debug\motor.pdb
+C:\Users\pavel\OneDrive\Рабочий стол\Учеба\motoronoe_maslo\мотороное масло\motor\motor\bin\Debug\Google.Protobuf.dll
+C:\Users\pavel\OneDrive\Рабочий стол\Учеба\motoronoe_maslo\мотороное масло\motor\motor\bin\Debug\MySql.Data.xml
+C:\Users\pavel\OneDrive\Рабочий стол\Учеба\motoronoe_maslo\мотороное масло\motor\motor\obj\Debug\motor.csprojAssemblyReference.cache
+C:\Users\pavel\OneDrive\Рабочий стол\Учеба\motoronoe_maslo\мотороное масло\motor\motor\obj\Debug\motor.Admin_Form.resources
+C:\Users\pavel\OneDrive\Рабочий стол\Учеба\motoronoe_maslo\мотороное масло\motor\motor\obj\Debug\motor.Form1.resources
+C:\Users\pavel\OneDrive\Рабочий стол\Учеба\motoronoe_maslo\мотороное масло\motor\motor\obj\Debug\motor.lolo.resources
+C:\Users\pavel\OneDrive\Рабочий стол\Учеба\motoronoe_maslo\мотороное масло\motor\motor\obj\Debug\motor.Authorization.resources
+C:\Users\pavel\OneDrive\Рабочий стол\Учеба\motoronoe_maslo\мотороное масло\motor\motor\obj\Debug\motor.Properties.Resources.resources
+C:\Users\pavel\OneDrive\Рабочий стол\Учеба\motoronoe_maslo\мотороное масло\motor\motor\obj\Debug\motor.RegistrationForm.resources
+C:\Users\pavel\OneDrive\Рабочий стол\Учеба\motoronoe_maslo\мотороное масло\motor\motor\obj\Debug\motor.StaffForm.resources
+C:\Users\pavel\OneDrive\Рабочий стол\Учеба\motoronoe_maslo\мотороное масло\motor\motor\obj\Debug\motor.csproj.GenerateResource.cache
+C:\Users\pavel\OneDrive\Рабочий стол\Учеба\motoronoe_maslo\мотороное масло\motor\motor\obj\Debug\motor.csproj.CoreCompileInputs.cache
+C:\Users\pavel\OneDrive\Рабочий стол\Учеба\motoronoe_maslo\мотороное масло\motor\motor\obj\Debug\motor.csproj.CopyComplete
+C:\Users\pavel\OneDrive\Рабочий стол\Учеба\motoronoe_maslo\мотороное масло\motor\motor\obj\Debug\motor.exe
+C:\Users\pavel\OneDrive\Рабочий стол\Учеба\motoronoe_maslo\мотороное масло\motor\motor\obj\Debug\motor.pdb

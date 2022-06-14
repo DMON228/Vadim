@@ -1,0 +1,16 @@
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\obj\Release\motor.Form1.resources
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\obj\Release\motor.lolo.resources
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\obj\Release\motor.Main.resources
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\obj\Release\motor.Properties.Resources.resources
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\obj\Release\motor.csproj.GenerateResource.cache
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\obj\Release\motor.csproj.CoreCompileInputs.cache
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\bin\Release\motor.exe.config
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\bin\Release\motor.exe
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\bin\Release\motor.pdb
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\bin\Release\MySql.Data.dll
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\bin\Release\Google.Protobuf.dll
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\bin\Release\MySql.Data.xml
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\obj\Release\motor.csprojAssemblyReference.cache
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\obj\Release\motor.csproj.CopyComplete
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\obj\Release\motor.exe
+C:\Users\pavel\OneDrive\Рабочий стол\motoronoe_maslo\мотороное масло\motor\motor\obj\Release\motor.pdb
